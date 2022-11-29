@@ -4,7 +4,7 @@
 ```js
 const PaulSalinas = {
   pronouns: "he" | "him",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [JavaScript, TypeScript, HTML, CSS],
   tools: [React, Redux, Node, Storybook, Styled-Components],
 
 ```
